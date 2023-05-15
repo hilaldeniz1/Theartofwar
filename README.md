@@ -8,7 +8,5 @@ Sitemiz html ve css ile oluşturuldu.
 
 <h2>Ekran Görüntüsü</h2>
 
-![](ekran.gif)
-# The-art-of-war
-# theartofwar
-# theartofwar
+![](ekran0.gif)
+
